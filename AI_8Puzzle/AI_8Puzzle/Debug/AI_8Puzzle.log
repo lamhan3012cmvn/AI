@@ -1,0 +1,5 @@
+﻿  CDisplay.cpp
+D:\KenZy\Learning\HK2-Năm 2\Trí tuệ nhân tạo\DA\AI_8Puzzle\AI_8Puzzle\CDisplay.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+D:\KenZy\Learning\HK2-Năm 2\Trí tuệ nhân tạo\DA\AI_8Puzzle\AI_8Puzzle\CDisplay.cpp(39,22): warning C4018: '<': signed/unsigned mismatch
+D:\KenZy\Learning\HK2-Năm 2\Trí tuệ nhân tạo\DA\AI_8Puzzle\AI_8Puzzle\CDisplay.cpp(68,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AI_8Puzzle.vcxproj -> D:\KenZy\Learning\HK2-Năm 2\Trí tuệ nhân tạo\DA\AI_8Puzzle\Debug\AI_8Puzzle.exe
