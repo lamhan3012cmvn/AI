@@ -1,0 +1,4 @@
+Dùng cách phím mũi tên để lựa chọn, hành động
+Phím enter để thực hiện chọn
+Input Goal: là 1 chuỗi 9 kí tự thuộc 0-8 không có dấu khoảng trắng
+

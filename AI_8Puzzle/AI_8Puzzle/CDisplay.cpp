@@ -47,7 +47,7 @@ string input()
 				break;
 			else cout << "Goal is Fail";
 		}
-		Sleep(50);
+		Sleep(500);
 		gotoXY(49, 15);
 		cout << "                             ";
 		gotoXY(37, 17);
